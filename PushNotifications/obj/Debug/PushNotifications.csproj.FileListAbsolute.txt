@@ -1,0 +1,14 @@
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.exe.config
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.exe
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.pdb
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\PushNotifications.csprojAssemblyReference.cache
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\PushNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.exe
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.pdb
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe.config
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.pdb
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.csprojAssemblyReference.cache
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.exe
+C:\Users\Egoluback\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.pdb

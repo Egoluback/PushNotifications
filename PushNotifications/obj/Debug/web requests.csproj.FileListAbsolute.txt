@@ -1,0 +1,7 @@
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.exe.config
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.exe
+C:\Users\Egoluback\source\repos\web requests\web requests\bin\Debug\web requests.pdb
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.csprojAssemblyReference.cache
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.csproj.CoreCompileInputs.cache
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.exe
+C:\Users\Egoluback\source\repos\web requests\web requests\obj\Debug\web requests.pdb
